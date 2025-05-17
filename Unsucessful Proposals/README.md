@@ -6,7 +6,7 @@
 | 2025 | Ahmed Nassar | Django Admin Command Palette | Django | [View Proposal](https://github.com/AhmedNassar7/GSoC-Accepted-Proposals/blob/main/Unsucessful%20Proposals/2025/Django_Admin_Command_Palette.pdf)|
 | 2025 | Ahmed Nassar | Bring django-template-partials into Django core | Django | [View Proposal](https://github.com/AhmedNassar7/GSoC-Accepted-Proposals/blob/main/Unsucessful%20Proposals/2025/Bring%20django-template-partials%20into%20Django%20core.pdf)|
 | 2025 | Abhay Anil Varnekar | Constellation: Extending the User Interface | CERN-HSF | [View Proposal](./2025/Constellation%20-%20Extending%20the%20user%20interface_Abhay.pdf)|
-| 2025 | Adya | Django: Automate processes within django contribution workflow | Django | [View Proposal]()|
+| 2025 | Adya | Django: Automate processes within django contribution workflow | Django | [View Proposal](Automate%20Processes%20within%20Django%20Contribution%20Workflow%2C%20GSoC%2025%20proposal%20for%20Django%20by%20Adya%20.pdf)|
 | 2025 | Prakhar Singh | AOSSIE: DOCPILOT - A conversational AI powered EMR application | AOSSIE | [View Proposal]()|
 
 > Add your row above by following the same format. Link to the folder where your proposal lives.
