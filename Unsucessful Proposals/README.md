@@ -8,7 +8,7 @@
 | 2025 | Abhay Anil Varnekar | Constellation: Extending the User Interface | CERN-HSF | [View Proposal](./2025/Constellation%20-%20Extending%20the%20user%20interface_Abhay.pdf)|
 | 2025 | Adya | Django: Automate processes within django contribution workflow | Django | [View Proposal](./2025/Automate%20Processes%20within%20Django%20Contribution%20Workflow%2C%20GSoC%2025%20proposal%20for%20Django%20by%20Adya%20.pdf)|
 | 2025 | Prakhar Singh | AOSSIE: DOCPILOT - A conversational AI powered EMR application | AOSSIE | [View Proposal](./2025/prakhar_singh_gsoc_proposal_aossie.pdf)|
-| 2025 | Swastik Ranjan Panigrahi | Open Food Facts Explorer - a new generation frontend | Open Food Facts | [View Proposal]() |
+| 2025 | Swastik Ranjan | Open Food Facts Explorer - A new generation frontend | Open Food Facts | [View Proposal]()|
 
 > Add your row above by following the same format. Link to the folder where your proposal lives.
 
