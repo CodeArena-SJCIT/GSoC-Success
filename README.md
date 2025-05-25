@@ -12,6 +12,7 @@ The plan for now is to gather as much sucessfull ([src1](https://github.com/Samm
 - Version `0.0.1` `Argo`: Scheduled for June 1, 2025. This intial release will include:
   -  Will help students to select orgs, select projects according to their tech stack.
   -  Will help students in analysing and creation of proposal from scratch.
+  -  Will give org specific insights with just prompts.
 
 #### Update
 `No one from our club got selected for GSoC for the year 2025.`
