@@ -10,7 +10,8 @@ The plan for now is to gather as much sucessfull ([src1](https://github.com/Samm
 
 ## Release
 - Version `0.0.1` `Argo`: Scheduled for June 5, 2025 (Delay due to Server Migration!). This intial release will include:
-  -  Will help students to select orgs, select projects according to their tech stack.
+  -  Students will get advice in selecting orgs, selecting projects according to their tech stack.
+  -  Which project within a org may or may not get a slot.
   -  Will give org specific insights with just prompts.
 - Version `0.0.2` `Vectus`: Scheduled for June 15, 2025. This second release will include:
   - Users/Students can upload and review their proposals and can also get feedback.
