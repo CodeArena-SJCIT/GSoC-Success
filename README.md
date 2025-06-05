@@ -9,12 +9,11 @@ The plan for now is to gather as much sucessfull ([src1](https://github.com/Samm
 ---
 
 ## Release
-- Version `0.0.1` `Argo`: Scheduled for June 5, 2025 (Delay due to Server Migration!). This intial release will include:
+- Version `0.0.1` `Vecargo`: Scheduled for June 15, 2025 (Delay due to Server Migration, etc!). This intial release will include:
   -  Students will get advice in selecting orgs, selecting projects according to their tech stack.
   -  Which project within a org may or may not get a slot.
+  -  Users/Students can upload and review their proposals and can also get feedback.
   -  Will give org specific insights with just prompts.
-- Version `0.0.2` `Vectus`: Scheduled for June 25 (Delayed due to Initial release!), 2025. This second release will include:
-  - Users/Students can upload and review their proposals and can also get feedback.
 
 #### Update
 `No one from our club got selected for GSoC for the year 2025.`
