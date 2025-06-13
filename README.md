@@ -9,7 +9,7 @@ The plan for now is to gather as much sucessfull ([src1](https://github.com/Samm
 ---
 
 ## Release
-- Version `0.0.1` `Vecargo`: Scheduled for June 15, 2025 (Delay due to Server Migration, etc!). This intial release will include:
+- Version `0.0.1` `Prim-A`: Scheduled for June 25, 2025 (Delay due to Server Migration, etc!). This intial release will include:
   -  Students will get advice in selecting orgs, selecting projects according to their tech stack.
   -  Which project within a org may or may not get a slot.
   -  Users/Students can upload and review their proposals and can also get feedback.
